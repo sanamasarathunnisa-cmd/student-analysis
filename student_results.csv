@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Python,DBMS,Statistics,English,Attendance,Total,Average,Result,Grade,Attendance_Status
+S101,Aarav Reddy,CSE,88,92,85,90,78,94,433,86.6,Pass,A,OK
+S102,Ayesha Fatima,CSE,95,98,93,96,89,97,471,94.2,Pass,A+,OK
+S103,Mohammed Faisal,ECE,72,68,70,65,74,88,349,69.8,Pass,C,OK
+S104,Priya Sharma,IT,81,85,79,83,88,91,416,83.2,Pass,A,OK
+S105,Rahul Verma,EEE,35,48,42,38,55,68,218,43.6,Fail,F,Shortage
+S106,Sneha Kulkarni,CSE,76,82,74,79,85,90,396,79.2,Pass,B,OK
+S107,Imran Khan,ECE,58,62,55,60,66,80,301,60.2,Pass,C,OK
+S108,Lakshmi Prasanna,IT,91,89,94,87,92,96,453,90.6,Pass,A+,OK
+S109,Karthik Naidu,EEE,64,59,61,57,70,72,311,62.2,Pass,C,Shortage
+S110,Zainab Begum,CSE,84,90,88,86,82,93,430,86.0,Pass,A,OK
+S111,Rohit Kumar,ECE,42,38,45,40,52,65,217,43.4,Fail,F,Shortage
+S112,Divya Teja,IT,69,74,71,68,77,85,359,71.8,Pass,B,OK
+S113,Farhan Ali,CSE,78,80,76,72,69,82,375,75.0,Pass,B,OK
+S114,Meghana Rao,ECE,86,79,83,88,91,95,427,85.4,Pass,A,OK
+S115,Arjun Singh,EEE,52,49,58,46,61,74,266,53.2,Pass,D,Shortage
+S116,Nikhil Goud,IT,73,77,69,75,72,87,366,73.2,Pass,B,OK
+S117,Shreya Patel,CSE,90,94,89,92,85,98,450,90.0,Pass,A+,OK
+S118,Abdul Rahman,ECE,47,55,50,44,58,70,254,50.8,Pass,D,Shortage
+S119,Pooja Yadav,IT,62,66,60,64,71,83,323,64.6,Pass,C,OK
+S120,Vikram Chowdary,EEE,33,41,36,45,48,62,203,40.6,Fail,F,Shortage
